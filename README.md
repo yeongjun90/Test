@@ -1,3 +1,4 @@
 # Test
 test
-dddd
+ddd\n
+azz
